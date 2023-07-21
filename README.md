@@ -1,4 +1,3 @@
-# rainsense
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/DzS4sgM/rainsense.png" alt="rainsense" border="0"></a><br>
 
 ## Title: Automated Control of Smart Plug Based on Precipitation Forecast
