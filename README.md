@@ -1,6 +1,6 @@
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/DzS4sgM/rainsense.png" alt="rainsense" border="0"></a><br>
 
-## Title: Automated Control of Smart Plug Based on Precipitation Forecast
+## Automated Control of Smart Plug Based on Precipitation Forecast
 
 **Description:**\
 The *"Automated Control of Smart Plug Based on Precipitation Forecast"* script is a practical tool to automate the management of electrical devices based on weather forecasts. This script uses a weather API to retrieve hourly precipitation data for a specific location and utilizes this information to control a Kasa smart plug. -> [Supported Devices](https://github.com/python-kasa/python-kasa#supported-devices).
